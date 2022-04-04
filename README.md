@@ -1,6 +1,7 @@
 ### 안녕안녕~~ 나는 ✨Soon9✨ 야~ 👋
 ### Hi There~~ I'm ✨Soon9✨ from Korea~ 👋
-
+### Email: hsg9984@gmail.com
+### Insta: soongu_hong
 
 
 <!--
