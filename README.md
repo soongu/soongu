@@ -2,7 +2,7 @@
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgmarobiana%2Fhit-counter&count_bg=%23FF9CB1&title_bg=%2341606C&icon=&icon_color=orange&title=hits&edge_flat=false)](https://github.com/soongu)
-![](https://img.shields.io/github/followers/soongu?style=social)
+![](./치킨.gif)
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient)
 
