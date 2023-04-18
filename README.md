@@ -36,8 +36,7 @@
 
 [![Soongu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soongu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![](./르세라핌1.jpg)
+![](./chaewon-antifragile.gif)
 
 ![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&section=footer)
   
