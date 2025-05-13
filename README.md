@@ -60,10 +60,25 @@ Java와 Spring 기반의 **클린코드**, **안정성 높은 서버 개발**을
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 
+
+---
+
+### 🛠️ Currently Learning
+
+📦 **NestJS** & Microservices 아키텍처 <br>
+🔐 **OAuth2 / JWT 인증 흐름 심화** <br>
+☁️ **Terraform + AWS IaC 자동화** <br>
+📈 **TDD & 테스트 코드 품질 향상** <br>
+
+
+
 ### 📊 GitHub Stats
 
 [![Soongu's GitHub stats](https://github-readme-stats.vercel.app/api?username=soongu&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soongu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=soongu&theme=tokyonight&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
