@@ -87,6 +87,14 @@ Java와 Spring 기반의 **클린코드**, **안정성 높은 서버 개발**을
 
 <img src="./chaewon-antifragile.gif" width="500px" />
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=soongu&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/soongu"
+  width="600"
+  height="300"
+/>
+</a>
+
 ---
 
 <!-- 푸터 -->
